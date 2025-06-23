@@ -4,7 +4,7 @@ A refined static web page showcasing polished HTML and CSS techniques, with impr
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Modern web browser (Chrome, Firefox, Safari, Edge)
